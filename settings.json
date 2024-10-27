@@ -1,0 +1,20 @@
+{
+    "app-info" :
+        {
+            "name" : "App",
+            "theme" : "dark",
+            "version" : "v1.0.0",
+            "developer" : "Pratham Bahekar",
+            "build" : "beta",
+            "font" : "consolas",
+
+            "window-size" : {
+                "isMin" : true,
+                "isMax" : false,
+                "min" : [450, 350],
+                "max" : [0, 0],
+                "default" : [1000, 650]
+            }
+            
+        }
+}
