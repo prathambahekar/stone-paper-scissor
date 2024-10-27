@@ -25,9 +25,10 @@ The main application file, `main.py`, is responsible for initializing the applic
 The core game logic allows the player to choose rock, paper, or scissors and plays against the computer's random choice. The outcome is then displayed, and the score is updated accordingly.
 
 ## Settings Menu Screenshot
-![Light Theme](https://github.com/prathambahekar/better-gui/blob/master/files/more/img/light.png)
-![Cream Theme](https://github.com/prathambahekar/better-gui/blob/master/files/more/img/cream.png)
-![Dark Theme](https://github.com/prathambahekar/better-gui/blob/master/files/more/img/dark.png)
+
+![Light Theme](https://github.com/prathambahekar/better-gui/blob/master/files/more/img/light-theme.png)
+![Dark Theme](https://github.com/prathambahekar/better-gui/blob/master/files/more/img/dark-theme.png)
+## Notes
 
 - This application uses PySide6, which is a Python binding for the Qt application framework.
 - The `core` module is not shown in the provided code snippet, but it is likely to contain core application logic.
