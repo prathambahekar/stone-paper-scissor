@@ -26,8 +26,8 @@ The core game logic allows the player to choose rock, paper, or scissors and pla
 
 ## Settings Menu Screenshot
 ![Light Theme](https://github.com/prathambahekar/stone-paper-scissor/blob/main/files/more/img/light.png)
-![Cream Theme](https://github.com/prathambahekar/better-gui/blob/main/files/more/img/cream.png)
-![Dark Theme](https://github.com/prathambahekar/better-gui/blob/main/files/more/img/dark.png)
+![Cream Theme](https://github.com/prathambahekar/stone-paper-scissor/blob/main/files/more/img/cream.png)
+![Dark Theme](https://github.com/prathambahekar/stone-paper-scissor/blob/main/files/more/img/dark.png)
 
 - This application uses PySide6, which is a Python binding for the Qt application framework.
 - The `core` module is not shown in the provided code snippet, but it is likely to contain core application logic.
