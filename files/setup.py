@@ -14,9 +14,9 @@ target = Executable(
 
 # SETUP CX FREEZE
 setup(
-    name = "Better UI",
+    name = "Stone Paper Scissor",
     version = "1.0.0",
-    description = "A beautiful python user interface",
+    description = "A stone paper scissor made with beautiful python user interface",
     author = "Pratham H Bahekar",
     options = {'build_exe' : {'include_files' : files}},
     executables = [target]
